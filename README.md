@@ -16,5 +16,6 @@ A Python-based data visualization tool to analyze and compare the Air Quality In
 ## How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <tumcha-repository-link>
+   git clone [https://github.com/naikjanhavi255-cpu/air-quality-analyzer]
+```
    
