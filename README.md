@@ -1,5 +1,5 @@
 # Air Quality Data Visualization Tool
-🚀 **Live Web App:** [Click Here to View App](https://air-quality-analyzer-naikjanhavi255-cpu.streamlit.app)
+🚀 **Live Web App:**[click here to view app] (https://4kjukojxhvwtjegnofjeea.streamlit.app/)
 
 A Python-based data visualization tool to analyze and compare the Air Quality Index (AQI) of different cities.
 
